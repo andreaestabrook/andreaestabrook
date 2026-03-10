@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Andrea 👋
 
-<!--
-**andreaestabrook/andreaestabrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer at **World Wide Technology**  
+MS Data Analytics Student – **Saint Louis University**
 
-Here are some ideas to get you started:
+I work on building data-driven solutions and analytics workflows using modern data engineering and machine learning tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+Python • SQL • Pandas • Scikit-Learn • Data Analysis • Machine Learning • Data Visualization • Analytics Engineering
+
+---
+
+## Featured Projects
+
+### SLU Data Analytics Portfolio
+A collection of academic analytics and machine learning projects completed during my undergraduate and graduate studies at Saint Louis University.
+
+🔗 https://github.com/andreaestabrook/SLU_Projects
+
+---
+
+## Interests
+
+- Data Engineering
+- Machine Learning
+- Analytics Strategy
+- Building data products that support decision-making
